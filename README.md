@@ -16,7 +16,7 @@ This is a full-stack MERN application built for a coding challenge. The app demo
 - Asynchronous payload processing simulated with a delay.
 - Redirects to the landing page after submission.
 
-### Payload Form Page (/form):
+### Payload Detail Page (/report):
 
 - Detailed view of a specific payload.
 - Displays raw form data and the processed result.
